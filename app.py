@@ -544,13 +544,6 @@ with tabs[0]:
         <h4 style='color:#e0c3fc; margin-top:0; font-weight:400;'>Answer honestly (first thought is usually best)</h4>
     """, unsafe_allow_html=True)
 
-    # ... rest of your tab 0 code ...
-
-    st.markdown("""
-    <div style="background:rgba(35,28,56,0.97); border-radius:14px; padding:32px 28px 20px 28px; margin-bottom:18px; box-shadow:0 6px 20px #20163355;">
-        <h2 style='color:#b68eff; margin-bottom:0.5em;'>Take the Personality Test</h2>
-        <h4 style='color:#e0c3fc; margin-top:0; font-weight:400;'>Answer honestly (first thought is usually best)</h4>
-    """, unsafe_allow_html=True)
     
     with st.expander("Tips for Taking the Test"):
         st.write("• Go with your first instinct.\n• Be honest with yourself.\n• No right or wrong answers.")
