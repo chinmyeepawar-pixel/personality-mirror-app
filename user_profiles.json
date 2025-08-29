@@ -1,0 +1,48 @@
+{
+    "chinmyeepawar@gmail.com": {
+        "scores": {
+            "O": 50.0,
+            "C": 50.0,
+            "E": 50.0,
+            "A": 50.0,
+            "N": 50.0
+        },
+        "archetype": "Aether Weaver",
+        "recs": {
+            "books": [
+                "Make It Stick \u2014 Brown, Roediger, McDaniel",
+                "The Now Habit \u2014 Neil Fiore",
+                "The War of Art \u2014 Steven Pressfield"
+            ],
+            "movies": [],
+            "study": [
+                "Pomodoro (25/5) with a 2-minute starter task.",
+                "Study trigger: same desk, same playlist, same hour.",
+                "Follow a structured outline; start with end-of-chapter problems.",
+                "Worked-example \u2192 attempt \u2192 self-explain cycle.",
+                "Protect quiet deep-work windows (phone in another room).",
+                "Batch communication after study blocks."
+            ],
+            "organize": [
+                "Visual kanban (To-Do/Doing/Done) with WIP limit = 2.",
+                "Lay out tomorrow\u2019s first task today."
+            ],
+            "meditations": [
+                "Box Breathing (4-4-4-4, 3\u20135 mins)"
+            ],
+            "general_tips": [],
+            "tagline": "Between opposites, you braid balance."
+        },
+        "shadow": {
+            "fears": [
+                "ordinary fears and doubts"
+            ],
+            "shadows": [
+                "balanced tendencies"
+            ],
+            "suggestions": [
+                "Keep doing what works; iterate weekly."
+            ]
+        }
+    }
+}
